@@ -1,4 +1,4 @@
-const CACHE='noki-app-v1';
+const CACHE='noki-app-v2';
 const CORE=['./','index.html','mapa.html','styles.css','logic.js','app.js','manifest.webmanifest','noki-original.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(self.clients.claim()));
