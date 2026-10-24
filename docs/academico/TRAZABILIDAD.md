@@ -1,6 +1,8 @@
 # Trazabilidad académica
 
-Fecha: 24/10/2026. Los criterios CA01–CA15 se detallan en el plan de proyecto. La matriz funcional completa de Android está en [MATRIZ-SPEC-CODIGO.md](../../Noki-Android/docs/MATRIZ-SPEC-CODIGO.md); la web se especifica en [SPEC-WEB.md](../../Noki-Web-Admin/SPEC-WEB.md). Los issues se crean en este cierre, no retrospectivamente como supuesta evidencia de sprints anteriores.
+Fecha: 24/10/2026. Los criterios CA01–CA15 se detallan en el plan de proyecto y en [CRITERIOS-ACEPTACION.md](CRITERIOS-ACEPTACION.md). La matriz funcional completa de Android está en [MATRIZ-SPEC-CODIGO.md](../../Noki-Android/docs/MATRIZ-SPEC-CODIGO.md); la web se especifica en [SPEC-WEB.md](../../Noki-Web-Admin/SPEC-WEB.md). Los issues se crean en este cierre, no retrospectivamente como supuesta evidencia de sprints anteriores.
+
+Publicación de fuentes: [commit b039090](https://github.com/jeffcaro05/noki-app/commit/b03909020ab9dc0c0cb89bb574fb651cdb4ccbbe), conservado dentro del [PR #10](https://github.com/jeffcaro05/noki-app/pull/10). Los ocho issues se vinculan al mismo PR de consolidación, no a ocho PR históricos inexistentes.
 
 | Historia y criterio | Issue | Implementación principal | Verificación |
 |---|---|---|---|

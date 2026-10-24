@@ -12,6 +12,7 @@ Noki orienta sobre qué hacer con aparatos eléctricos y electrónicos en desuso
 | [Noki-Web-Admin](Noki-Web-Admin/) | Panel React, TypeScript y Vite 2.0.0. Abrir esta carpeta en VS Code. |
 | [SPEC web](Noki-Web-Admin/SPEC-WEB.md) | Versión 6.1 del contrato y comportamiento administrativo. |
 | [Documentación académica](docs/academico/) | Plan de cierre, requisitos, evidencias exploratorias y pruebas. |
+| [Plan académico final](docs/academico/PlanProyecto_Noki_Cierre_2026-10-24.docx) | Documento Word diligenciado, con trece secciones, seis anexos e índice. |
 | [Bitácora de IA](bitacora_IA.md) | Solicitudes, decisiones humanas, resultados, verificaciones y límites. |
 | [Backlog](docs/academico/BACKLOG.md) | Ocho historias enlazadas a issues; estado del cierre. |
 
