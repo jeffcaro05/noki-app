@@ -1,0 +1,21 @@
+import { defineConfig } from "@playwright/test";
+export default defineConfig({
+  testDir: "./tests/browser",
+  fullyParallel: false,
+  workers: 1,
+  timeout: 30000,
+  use: {
+    baseURL: "http://127.0.0.1:5176",
+    channel: "msedge",
+    headless: true,
+    trace: "retain-on-failure",
+    screenshot: "only-on-failure",
+  },
+  reporter: [["list"], ["html", { open: "never" }]],
+  webServer: {
+    command:
+      "node node_modules/vite/bin/vite.js --host 127.0.0.1 --port 5176 --strictPort",
+    url: "http://127.0.0.1:5176",
+    reuseExistingServer: true,
+  },
+});

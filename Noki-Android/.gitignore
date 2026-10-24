@@ -1,0 +1,12 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/workspace.xml
+.idea/caches/
+*.jks
+*.keystore
+secrets.properties
+captures/
+verification/device-*.xml
+
