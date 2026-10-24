@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Noki" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#f5f4f0</item>
+    </style>
+    <color name="launcher_background">#f5f4f0</color>
+</resources>
